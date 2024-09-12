@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
-printf("XYZ");
+for(int i=0;i<5;i++)
+printf("%d",i);
 }
