@@ -3,7 +3,7 @@ void main()
 {
 for(int i=0;i<5;i++)
 {
-printf("");
+printf("akx gdvasf");
 printf("%d",i);
 printf("   ");
 }
